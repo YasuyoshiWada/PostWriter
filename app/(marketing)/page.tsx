@@ -13,7 +13,7 @@ export default function IndexPage() {
           <h1 className='font-extrabold text-3xl sm:text-5xl md:text-6xl lg:text7xl'>Post Writer</h1>
           <p className='text-muted-foreground sm:text-xl leading-normal max-w-[42rem]'>
             このアプリケーションはNext.js
-            AppRouterで作られたものです。ユーザーは自由に投稿をポストする事ができます
+            AppRouterで作られたものです。ユーザーは自由に投稿をポストする事ができます。
           </p>
           <div className='space-x-4'>
             <Link
